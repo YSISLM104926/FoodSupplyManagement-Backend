@@ -1,5 +1,5 @@
 {
-  "name": "frontend-assignment-server",
+  "name": "foodsupplymanagementbackend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
-  "author": "Programming Hero",
+  "author": "Md. Likhon Mia",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
